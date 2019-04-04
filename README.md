@@ -1,4 +1,5 @@
 # Fluid-Instabilities-Project
+## Project by Adam Kirk
 This repository contains the Python Code that I wrote for my project.
 
 The file Final Working Code.py gives the eigenvalues and eigenmodes for the different set-ups that are possible.
